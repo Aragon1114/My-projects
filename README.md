@@ -8,3 +8,4 @@ Here’s what I’ve built so far:
 | [Cisco Networking Project](./Cisco-Networking-Project/) | A project worked on Cisco Packet Tracer |
 | [Database Assignment](./Database-Assignment/) | My Database Assignment working on SQL |
 | [School Management System](./School-management-System (HTML only)) | HTML project to build a School Management System |
+| [Sunway Student Portal]( ./Sunway-Student-Portal/) | A python based local website with MySQL database |
