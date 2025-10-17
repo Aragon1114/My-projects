@@ -1,0 +1,4 @@
+In order to run this, you must have python, flask, and flask_mysqldb installed in your IDE. 
+Download XAMPP and inside it, start Apache and MySQL then click Admin to access the database to get the username and password to login to the website.
+Run the python file and click on the link generated which will lead to the website.
+Key in the username and password and decie whether to access the lecturer or student page.
